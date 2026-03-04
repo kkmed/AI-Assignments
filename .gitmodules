@@ -1,0 +1,9 @@
+[submodule "Captcha"]
+	path = Captcha
+	url = https://github.com/kkmed/Captcha
+[submodule "AQI-Checker"]
+	path = AQI-Checker
+	url = https://github.com/kkmed/AQI-Checker
+[submodule "Uninformed-Search-Methods"]
+	path = Uninformed-Search-Methods
+	url = https://github.com/kkmed/Uninformed-Search-Methods
